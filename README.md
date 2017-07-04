@@ -1,7 +1,7 @@
 ## Find-Train-Ticket-Check-in
 
 ### 开发背景
-来自于[ecmadao](https://github.com/ecmadao)的小项目(https://github.com/ecmadao/Train-12306)的启发
+来自于[ecmadao](https://github.com/ecmadao)的项目 [Train-12306](https://github.com/ecmadao/Train-12306) 的启发
 
 PS:检票口的查询其实是一个用户的硬伤，目前高铁动车在打印火车票时会写上检票口的名称
 市面上了解到的是路路通的APP可以提供部分的列车的检票口查询，应该是有对应的数据接口支持。
